@@ -1,4 +1,4 @@
-# simple_utils.py - A utility library
+#simple_utils.py - A utility library
 
 
 def reverse_string(text):
